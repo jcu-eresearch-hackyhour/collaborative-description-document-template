@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+COLLABORATIVE DESCRIPTION DOCUMENT
+
+THIS DOCUMENT DESCRIBES THE ENTITY USING A COLLABORATIVE DOI.
+
+IF USING COLLABORATIVE DOI BENEFITS YOUR RESEARCH, PLEASE CITE THE ORIGINAL IDEA
+
+LOCATED AT HTTPS://COLLABORATIVE.DOI.JCU.IO/CITE
+-------------------------------------------------------------------------------
+
+name: <ORGANISATION OR INDIVIDUAL NAME>
+
+contact: <CONTACT DETAILS FOR NAME>
+
+description: <TERSE DESCRIPTION> 
+
+collaborator: <NAME OR EMAIL OF COLLABORATORS IF ORGANISATION>
+
+collaborator: <USE AS MANY COLLABORATORS AS REQUIRED>
+
+topic: <AREAS WHERE YOU OFFER COLLABORATION>
+
+topic: <USE AS MANY TOPICS AS DESIRED>
+
+doi: <DOI OF THIS DOCUMENT>
+
+url: <PERMANENT URL OF THIS DOCUMENT>
+
+Example located at https://collaborative.doi.jcu.io/example
